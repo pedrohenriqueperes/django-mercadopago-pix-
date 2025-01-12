@@ -22,8 +22,7 @@ Este é um projeto Django que implementa um sistema de pagamento PIX integrado c
 
 1. Clone o repositório:
 ```bash
-git clone https://seu-repositorio.git
-cd nome-do-projeto
+git clone https://github.com/pedrohenriqueperes/django-mercadopago-pix-.git
 ```
 
 2. Crie um ambiente virtual e ative-o:
