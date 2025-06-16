@@ -6,5 +6,5 @@ urlpatterns = [
     path('generate-payment/', views.generate_payment, name='generate_payment'),
     path('verify-payment/', views.verify_payment_status, name='verify_payment'),
     path('webhook/', views.webhook, name='webhook'),
-
+   
 ]

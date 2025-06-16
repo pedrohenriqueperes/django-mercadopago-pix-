@@ -9,12 +9,12 @@ def get_payment(price, description):
         "description": str(description),
         "payment_method_id": "pix",
         "payer": {
-            "email": "test@test.com",
-            "first_name": "User",
-            "last_name": "Example",
+            "email": "test@gmail.com",
+            "first_name": "Juciley",
+            "last_name": "Pires",
             "identification": {
                 "type": "CPF",
-                "number": ""
+                "number": "36069178807"
             },
             "address": {
                 "zip_code": "06233-200",
